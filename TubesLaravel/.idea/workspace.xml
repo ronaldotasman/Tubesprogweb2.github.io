@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b73c38a-4d1f-4a69-a5e5-11e2b5db5ae9" name="Default Changelist" comment="" />
+    <list default="true" id="8b73c38a-4d1f-4a69-a5e5-11e2b5db5ae9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/key2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/key3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/login.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/login2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/login3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/pertalite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/pertamax.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/pertamax_turbo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/pertamina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/img/solar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/login_css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/tubes.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/tubes_pw2.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Besar/tubes_pw2.mwb.bak" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +40,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -129,6 +155,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1n0US0otfxeNQpbFYxpi6Mgybca" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -173,6 +200,7 @@
       <workItem from="1610721547943" duration="9313000" />
       <workItem from="1610767256837" duration="6953000" />
       <workItem from="1610782159001" duration="366000" />
+      <workItem from="1610809395424" duration="647000" />
     </task>
     <servers />
   </component>
