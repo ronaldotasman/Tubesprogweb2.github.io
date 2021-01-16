@@ -1,0 +1,37 @@
+.container1 {
+	width: 40%;
+	margin-top: 12%;
+	margin-left: 30%;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.2);
+	padding: 50px;
+    background: white;
+
+}
+
+.containerreg {
+    width: 40%;
+    margin-top: 12%;
+    margin-left: 30%;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.2);
+    padding: 50px;
+    background: white;
+}
+
+
+button {
+	width: 49%;
+}
+.buttonreg{
+    width: 60%;
+    btn: btn-success mt-3;
+}
+.body{
+    background: url('../img/smoke.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bodylogin{
+    background: url('../img/pertamina.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
