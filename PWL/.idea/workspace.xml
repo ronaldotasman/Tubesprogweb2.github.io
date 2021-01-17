@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12444777-044e-4b1d-b0ad-8a5d62121d98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i65ktoACTR851fxVBHTbfmNfUX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PW2_w5_1872063" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PWL" />
+      <recent name="C:\xampp\htdocs\PWL\util" />
+      <recent name="C:\xampp\htdocs\PW2_w4_1872063" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PWL\dao" />
+      <recent name="C:\xampp\htdocs\PW2_w11.2_1872063\js" />
+      <recent name="C:\xampp\htdocs\PW2_w8_1872063" />
+      <recent name="C:\xampp\htdocs\PW2_w7_1872063" />
+      <recent name="C:\xampp\htdocs\PW2_w4_1872063" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12444777-044e-4b1d-b0ad-8a5d62121d98" name="Default Changelist" comment="" />
+      <created>1601215348020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601215348020</updated>
+      <workItem from="1601215349044" duration="7845000" />
+      <workItem from="1601256215434" duration="677000" />
+      <workItem from="1601271457085" duration="616000" />
+      <workItem from="1601273541106" duration="5597000" />
+      <workItem from="1601284397848" duration="10544000" />
+      <workItem from="1601810338552" duration="2242000" />
+      <workItem from="1601858860747" duration="795000" />
+      <workItem from="1601889157140" duration="7477000" />
+      <workItem from="1601896757580" duration="19000" />
+      <workItem from="1601896779283" duration="1021000" />
+      <workItem from="1602475215278" duration="1119000" />
+      <workItem from="1602480851555" duration="15572000" />
+      <workItem from="1602499032785" duration="1891000" />
+      <workItem from="1603084235995" duration="3529000" />
+      <workItem from="1603088011064" duration="21743000" />
+      <workItem from="1603613410956" duration="2680000" />
+      <workItem from="1603629955092" duration="3464000" />
+      <workItem from="1603685630182" duration="10938000" />
+      <workItem from="1603699646131" duration="2749000" />
+      <workItem from="1603702879556" duration="12474000" />
+      <workItem from="1603723486775" duration="4997000" />
+      <workItem from="1604279143013" duration="1528000" />
+      <workItem from="1604293156255" duration="1622000" />
+      <workItem from="1605444766351" duration="193000" />
+      <workItem from="1606110364307" duration="28910000" />
+      <workItem from="1606712806933" duration="126000" />
+      <workItem from="1606720512149" duration="2058000" />
+      <workItem from="1607318125828" duration="3772000" />
+      <workItem from="1607326147868" duration="463000" />
+      <workItem from="1607744253439" duration="2202000" />
+      <workItem from="1607827253766" duration="477000" />
+      <workItem from="1607830348111" duration="1340000" />
+      <workItem from="1607921737699" duration="19675000" />
+      <workItem from="1607945691707" duration="347000" />
+      <workItem from="1607947147439" duration="68000" />
+      <workItem from="1607947256703" duration="7719000" />
+      <workItem from="1607957183035" duration="195000" />
+      <workItem from="1608528106167" duration="3492000" />
+      <workItem from="1608535291694" duration="8864000" />
+      <workItem from="1608551569951" duration="4958000" />
+      <workItem from="1608557282591" duration="159000" />
+      <workItem from="1608614527036" duration="646000" />
+      <workItem from="1610080256848" duration="262000" />
+      <workItem from="1610107677397" duration="660000" />
+      <workItem from="1610286762557" duration="655000" />
+      <workItem from="1610335186388" duration="749000" />
+      <workItem from="1610705259123" duration="3397000" />
+      <workItem from="1610717077175" duration="5082000" />
+      <workItem from="1610767262609" duration="593000" />
+      <workItem from="1610815013738" duration="12076000" />
+      <workItem from="1610849824985" duration="19318000" />
+      <workItem from="1610902433176" duration="1539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1610895114229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1610895114229" />
+    <state x="361" y="71" width="814" height="728" key="#Intentions" timestamp="1606111554517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" width="814" height="728" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1606111554517" />
+    <state x="475" y="55" key="#PHP" timestamp="1602484443699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="55" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1602484443699" />
+    <state x="562" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1610892113322">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1610892113322" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610887402025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610887402025" />
+    <state x="521" y="135" key="FileChooserDialogImpl" timestamp="1610850008575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="135" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610850008575" />
+    <state x="576" y="135" key="NewPhpClassDialog" timestamp="1610892239151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="576" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1610892239151" />
+    <state x="581" y="325" key="NewPhpFileDialog" timestamp="1610891732479">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="325" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1610891732479" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602500356793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602500356793" />
+    <state x="538" y="220" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1606111585157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="220" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1606111585157" />
+    <state x="298" y="0" width="1252" height="810" key="dock-window-1" timestamp="1610822590566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="298" y="0" width="1252" height="810" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1610822590566" />
+    <state x="425" y="186" key="run.anything.popup" timestamp="1607937482084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="186" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1607937482084" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610897683693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1610897683693" />
+  </component>
+</project>
